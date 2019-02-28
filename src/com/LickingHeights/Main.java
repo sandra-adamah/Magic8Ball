@@ -27,6 +27,19 @@ public class Main {
             if ((aNumber >= 0) && (aNumber <= 10)) {
                 System.out.println("Of course!");
             }
+            else if ((aNumber>= 11) && (aNumber <= 20)) {
+                System.out.println("Absolutely");
+            }
+            else if ((aNumber>= 21) && (aNumber <= 30)) {
+                System.out.println("Sure why not?!");
+            }
+            else if ((aNumber>= 31) && (aNumber <= 40)) {
+                System.out.println("Yes");
+            }
+            else if ((aNumber>= 41) && (aNumber <= 50)) {
+                System.out.println("Yes yes yes yes, couldn't have thought of anything better!");
+
+
 
 
 
